@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/chrusic-todoist-mcp-server-extended-badge.png)](https://mseep.ai/app/chrusic-todoist-mcp-server-extended)
+
 # Todoist MCP Server Extended
 
 [![smithery badge](https://smithery.ai/badge/@Chrusic/todoist-mcp-server-extended)](https://smithery.ai/server/@Chrusic/todoist-mcp-server-extended)
